@@ -15,6 +15,3 @@ def current_player(board)
     return "O"
   end
 end
-
-#X - 1, 3, etc (odd)
-#O - even
